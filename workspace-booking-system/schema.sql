@@ -41,7 +41,7 @@ CREATE TABLE mitarbeiter (
   vorname VARCHAR(255),
   nachname VARCHAR(255),
   email VARCHAR(255)
-);v
+);
 
 CREATE TABLE booking (
   id BIGINT AUTO_INCREMENT PRIMARY KEY,
@@ -62,3 +62,4 @@ CREATE TABLE benachrichtigung (
   mitarbeiter_id BIGINT,
   FOREIGN KEY (mitarbeiter_id) REFERENCES mitarbeiter(id)
 );
+
