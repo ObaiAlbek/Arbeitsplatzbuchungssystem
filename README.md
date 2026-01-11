@@ -47,7 +47,7 @@ Code kopieren
 
 ---
 
-# 📐 UML – Klassendiagramm (Mermaid)
+# 📐 UML – Klassendiagramm
 
 ```mermaid
 classDiagram
