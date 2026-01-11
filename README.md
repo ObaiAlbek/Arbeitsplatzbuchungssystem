@@ -42,9 +42,6 @@ workspace-booking-system/
 ├── src/main/resources
 ├── pom.xml
 
-kotlin
-Code kopieren
-
 ---
 
 # 📐 UML – Klassendiagramm
